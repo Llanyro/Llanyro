@@ -16,7 +16,7 @@ Somtimes I do software that can be used in pentesting and internal audits.
 ✔️ Started projects <br/>
 ⭕ Endless beta <br/>
 
-✔️ (C/C++, asm) Llanylib.so and Llanylib.dll <br/>
+✔️ (C/C++, asm) Llanylib.so and Llanylib.dll (Private :P) <br/>
 ✅ (C/C++) SimpleCppLogger <br/>
 ✅ (Python3) SimplePythonLogger <br/>
 ⭕ (Python3) UsefulScripts <br/>
