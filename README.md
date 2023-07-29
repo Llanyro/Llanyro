@@ -1,8 +1,8 @@
 ### Llanyro here!
 Software engineer with mention in cybersecurity
 I usually use:<br/>
-C / C++ (Fast + control everything) <br/>
-Assembly (FASTER! && die) <br/>
+C / C++ <br/>
+Assembly <br/>
 Python3 (Script and import everything fast) <br/>
 Java(If i want to die doing Minecraft mods) <br/>
 
